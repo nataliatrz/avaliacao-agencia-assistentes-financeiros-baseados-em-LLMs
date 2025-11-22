@@ -1,0 +1,22 @@
+Turno	Interlocutor	Fala
+1	Cliente	Olá, gostaria de ajuda para fazer um investimento.
+2	Assistente	"Olá! Claro, estou aqui para te ajudar. Para te orientar melhor, responda: 1. Objetivo do investimento; 2. Prazo (curto, médio, longo); 3. Valor que pretende investir; 4. Nível de conhecimento (renda fixa, ações etc.); 5. Perfil de risco (conservador, moderado, arrojado). Com isso posso montar uma sugestão personalizada."
+3	Cliente	Meu objetivo é comprar um imóvel maior. O horizonte de investimento é de médio-longo prazo, em torno de 7 anos. Tenho 100 mil reais para investir. Possuo um conhecimento intermediário-avançado em investimentos (ações e fundos imobiliários). E tenho uma tolerância média a risco.
+4	Assistente	"Perfeito! Vamos organizar as informações: Objetivo: comprar imóvel; Prazo: 7 anos; Valor: R$100.000; Conhecimento: intermediário-avançado; Perfil: moderado."
+5	Assistente	?? Estratégia sugerida: 1. Renda Fixa (35% – R$35.000): Tesouro IPCA+ 2032, CDBs IPCA+, LCI/LCA.
+6	Assistente	2. Fundos Imobiliários (FIIs) (25% – R$25.000): foco em tijolo e híbridos.
+7	Assistente	3. Ações (25% – R$25.000): empresas resilientes e ETFs como BOVA11, SMAL11, IVVB11.
+8	Assistente	4. Reserva de Oportunidade (15% – R$15.000): fundo DI, Tesouro Selic ou CDB com liquidez.
+9	Assistente	?? Recomenda-se rebalancear anualmente e migrar parte do risco para renda fixa conforme o objetivo se aproxima.
+10	Cliente	Poderia recomendar investimentos mais específicos?
+11	Assistente	Claro! Distribuição sugerida: Renda Fixa (35% – R$35.000), FIIs (25% – R$25.000), Ações/ETFs Brasil (20% – R$20.000), Internacional (5% – R$5.000), Caixa (15% – R$15.000).
+12	Assistente	Renda Fixa: Tesouro IPCA+ 2032 (~IPCA + 5,6% a.a.), CDB IPCA+ (~6% a.a.).
+13	Assistente	FIIs sugeridos: HGLG11, XPML11, KNRI11, CPTS11, MXRF11.
+14	Assistente	"Ações: TAEE11, ITUB4, EGIE3, WEGE3; ETFs: BOVA11, DIVO11."
+15	Assistente	Internacional: IVVB11 para exposição ao S&P 500.
+16	Assistente	Caixa: Tesouro Selic 2027 ou CDB liquidez diária. Rebalanceamento anual e reinvestimento de dividendos recomendados.
+17	Cliente	Você está fazendo essa recomendação baseado em dados atuais?
+18	Assistente	Excelente pergunta — sim, a recomendação é baseada no cenário macro até outubro de 2025: Selic ~10,75% a.a., inflação ~4%, renda fixa ainda atrativa e ações/FIIs ganhando força.
+19	Assistente	? Atualizado: contexto macro e classes de ativos.
+20	Assistente	?? Não atualizado em tempo real: cotações, yields e taxas específicas.
+21	Assistente	?? Posso simular rentabilidade projetada, listar ativos com melhores rendimentos atuais ou avaliar portfólios existentes. Me diga se deseja nomes atualizados ou montar a carteira direto na corretora.
